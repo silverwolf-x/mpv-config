@@ -1,4 +1,4 @@
-// 文档 https://github.com/hooke007/MPV_lazy/wiki/4_GLSL
+// 文档 https://github.com/hooke007/mpv_PlayKit/wiki/4_GLSL
 
 // Copyright (c) 2021 Advanced Micro Devices, Inc. All rights reserved.
 //
@@ -30,14 +30,12 @@
 
 //!PARAM NR
 //!TYPE DEFINE
-//!DESC int
 //!MINIMUM 0
 //!MAXIMUM 1
 1
 
 //!PARAM ALPHA
 //!TYPE DEFINE
-//!DESC int
 //!MINIMUM 0
 //!MAXIMUM 1
 1
